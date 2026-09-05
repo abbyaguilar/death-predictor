@@ -1,15 +1,37 @@
-DEATH PREDICTOR
+# Death Predictor
 
-Collaborators: Mariah Harris and Abigail Aguilar
+An older **CPSC 362 Software Engineering coursework project** created by Mariah Harris and Abigail Aguilar.
 
-##general info
+## Overview
 
-The aim of the Death Predictor is to calculate a predicted time and death of a user based on their daily habits and lifestyle. This is a simple web app project for our software engineering course - CPSC 362, directed by Mehdi Peiravi.
+Death Predictor is a simple browser-based survey application that estimates a fictionalized "predicted time of death" from lifestyle and daily-habit responses. The project was created for software engineering coursework and is best understood as a class exercise in requirements, UI flow, documentation, and collaborative development rather than a medical or machine learning system.
 
-##technologies
+## Technologies
 
-Languages used are HTML, CSS, and Javascript, additionally included bootstrap 4
+- HTML
+- CSS
+- JavaScript
+- Bootstrap 4
 
-##set up
+## Coursework Artifacts
 
-To run this project, extract zip file and add existing files into IDE or run through Github Repository (https://abbyaguilar.github.io/CPSC-362/)
+The repository includes supporting software-engineering documentation such as:
+
+- Use case diagram
+- Activity diagram
+- CRC diagram
+- Test case documentation
+
+## Run Locally
+
+Clone the repository and open `index.html` in a browser.
+
+## Project Status
+
+**Archived coursework / educational project.**
+
+This project is retained as part of my earlier software engineering work and is not representative of my current application architecture or ML work.
+
+## Disclaimer
+
+The application is fictional and educational. It does not provide medical, health, or lifespan predictions.
